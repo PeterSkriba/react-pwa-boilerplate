@@ -1,2 +1,3 @@
-# react-pwa-boilerplate
+# React PWA boilerplate
+
 React PWA boilerplate.
